@@ -1,0 +1,9 @@
+{
+  "rinaldin-www-rinaldin-it": {
+    "instance_id": "rinaldin-www-rinaldin-it",
+    "status": "active",
+    "expires_at": "2029-01-30",
+    "customer": "Rinaldin Srl",
+    "site": "https://www.rinaldin.it"
+  }
+}
